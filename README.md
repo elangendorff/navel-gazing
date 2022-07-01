@@ -3,6 +3,8 @@
 ## Overview
 Using HTML (with Bootstrap) and JavaScript (with D3 and Plotly), create a Web page that displays navel washing frequency and bacterial sample count for a selected user ID.
 
+Published version of site can be found at [here](https://elangendorff.github.io/navel-gazing/).
+
 ## Web Page Customizations
 
 ### HTML / Bootstrap
